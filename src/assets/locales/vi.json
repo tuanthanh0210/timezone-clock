@@ -1,0 +1,10 @@
+{
+    "title": "Đây là project giới thiệu cách sử dụng react-i18n",
+    "description": {
+        "teacher": "Lê Tuấn Thành",
+        "student": "Đào Danh Lưu",
+        "classmate": {
+            "name": "Thành"
+        }
+    }
+}
